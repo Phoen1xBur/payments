@@ -1,6 +1,6 @@
 [project]
 name = "paymets"
 version = "0.1.0"
-description = "Add your description here"
+description = "Асинхронный сервис процессинга платежей"
 requires-python = ">=3.14"
 dependencies = []
